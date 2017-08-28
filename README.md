@@ -4,3 +4,6 @@
 　　（2）把图片数据传入img对象，然后将img绘制到canvas上，再调用canvas.toDataURL对图片进行压缩  
 　　（3）获取到压缩后的base64格式图片数据，转成二进制塞入formdata，再通过XmlHttpRequest提交formdata。  
 如此三步，就完成了图片的压缩和上传。
+
+详情，见[链接](http://www.cnblogs.com/shinefon-2-2/p/5901330.html) 
+[参考](http://wangyong31893189.iteye.com/blog/1695472)
