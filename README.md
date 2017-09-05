@@ -6,5 +6,6 @@
 如此三步，就完成了图片的压缩和上传。
 
 详情，见[链接](http://www.cnblogs.com/shinefon-2-2/p/5901330.html)   
-[参考](http://wangyong31893189.iteye.com/blog/1695472)
-[参考移动端图片上传旋转、压缩的解决方案 ](https://github.com/lin-xin/blog/issues/18)
+[参考](http://wangyong31893189.iteye.com/blog/1695472)  
+[参考移动端图片上传旋转、压缩的解决方案 ](https://github.com/lin-xin/blog/issues/18)  
+[插件上传](https://github.com/think2011/localResizeIMG)
